@@ -1,5 +1,5 @@
 {
-  "downloadlink": "https://github.com/Webcap/caffiene/releases/download/v1.0.4/caffiene-v1.0.4.apk",
-  "versionnumber": "1.0.4",
-  "changelog": "renamed package, added Mobile Ads before movie"
+  "downloadlink": "https://github.com/Webcap/caffiene/releases/download/v1.0.3/caffiene-v1.0.3.apk",
+  "versionnumber": "1.0.3",
+  "changelog": "UI fixes, tweaked some of the algorithm, killed some bugs, and stability improvements, also added mixpanel"
 }
