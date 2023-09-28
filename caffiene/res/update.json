@@ -1,5 +1,5 @@
 {
-  "downloadlink": "https://github.com/Webcap/caffiene/releases/download/release/caffiene-v.1.0.5.apk",
-  "versionnumber": "1.0.5",
-  "changelog": "hotfix to the ad display system"
+  "downloadlink": "https://github.com/Webcap/caffiene/releases/download/v1.3.0/caffiene-v1.3.0.apk",
+  "versionnumber": "1.3.0",
+  "changelog": "Fixed server bug, various UI changes, Added Language support, LIVE TV now in beta, added watch recently. Performance fixes and more."
 }
