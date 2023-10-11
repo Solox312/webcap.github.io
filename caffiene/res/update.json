@@ -1,5 +1,5 @@
 {
-  "downloadlink": "https://github.com/Webcap/caffeine/releases/download/v1.3.0/caffiene-v1.3.0.apk",
-  "versionnumber": "1.3.0",
-  "changelog": "Fixed server bug, various UI changes, Added Language support, LIVE TV now in beta, added watch recently. Performance fixes and more."
+  "downloadlink": "https://github.com/Webcap/caffeine/releases/download/v1.3.2/caffeine-v1.3.2.apk",
+  "versionnumber": "1.3.2",
+  "changelog": "new stuff added under the hood, tweak some UI elements, added a cool update banner, You can now watch TV shows again, fixed a crazy spelling error"
 }
