@@ -1,5 +1,5 @@
 {
-  "downloadlink": "https://github.com/Webcap/caffeine/releases/download/v1.4.0/caffeine-v1.4.0.apk",
-  "versionnumber": "1.4.0",
-  "changelog": "## What's Changed\n* fixed stream route\n* more app improvement\n* new darker dark mode\n* new app colors\n* forgot to add something by @Solox312 in https:\/\/github.com\/Webcap\/caffeine\/pull\/2\n* change verison num by @Solox312 in https:\/\/github.com\/Webcap\/caffeine\/pull\/3\n* \n\n\n**Full Changelog**: https:\/\/github.com\/Webcap\/caffeine\/compare\/v1.3.5...v1.4.0"
+  "downloadlink": "https://github.com/Webcap/caffeine/releases/download/v1.4.1/caffeine-v1.4.1.apk",
+  "versionnumber": "1.4.1",
+  "changelog": "**Full Changelog**: https:\/\/github.com\/Webcap\/caffeine\/compare\/v1.4.0...v1.4.1\n**What Changed**\n\n- Hotfix for latest app release"
 }
