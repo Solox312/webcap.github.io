@@ -1,5 +1,5 @@
 {
-  "downloadlink": "https://github.com/Webcap/caffeine/releases/download/v1.6.0/caffeine-v1.6.0.apk",
-  "versionnumber": "1.6.0-5",
+  "downloadlink": "https://github.com/Webcap/caffeine/releases/download/v1.6.0-6/caffeine-v1.6.0-6.apk",
+  "versionnumber": "1.6.0-build-6",
   "changelog": "🎬📺 caffeine v1.6.0 is here!\nChanges:\n🐞 Better error messages\n🎬 Added 4 new video sources: Gomovies, Zoechip, Vidsrc and VidSrcTo!\n⏯ Player UI changed slightly\n📱 Better app performance/smoothness\n- Other minor changes"
 }
