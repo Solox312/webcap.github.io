@@ -1,5 +1,5 @@
 {
-  "downloadlink": "https://github.com/Webcap/caffeine/releases/download/v1.6.1/caffeine-v1.6.1.apk",
-  "versionnumber": "1.6.1",
-  "changelog": "🎬📺 caffeine v1.6.1\nChanges:\n-Fixed image download problem\n-Fixed some UI slightly\n-App improvements"
+  "downloadlink": "https://github.com/Webcap/caffeine/releases/download/v1.6.2/caffeine-v1.6.2.apk",
+  "versionnumber": "1.6.2",
+  "changelog": "🎬📺 caffeine v1.6.2 Changes:\n-Added better IPTV support\n-Reordered providers\n-Added bold option in subtitles"
 }
