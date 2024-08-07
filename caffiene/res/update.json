@@ -1,5 +1,5 @@
 {
-  "downloadlink": "https://github.com/Webcap/caffeine/releases/download/v1.6.4/caffeine-v1.6.4.apk",
-  "versionnumber": "1.6.4",
-  "changelog": "🎬📺 caffeine v1.6.4 Changes:\n-various app improvements"
+  "downloadlink": "https://github.com/Webcap/caffeine/releases/download/v1.7.0/caffeine-v1.7.0.apk",
+  "versionnumber": "1.7.0",
+  "changelog": "🎬📺 caffeine v1.7.0 Changes:\n-various app improvements \n-removed dead streams and fix working streams"
 }
